@@ -66,5 +66,5 @@ id |    author_id     | book_id
 
 ### CRUD Relationships __sql vs ruby__.
 
-*__coming soon...__*
+~~*__coming soon...__*~~
 
